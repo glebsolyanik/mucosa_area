@@ -1,0 +1,13 @@
+.DS_store
+__pycache__
+
+.python-version
+.vscode/
+dse/
+
+dataset/
+*.drawio
+*.png
+*.vtp
+
+test_*
